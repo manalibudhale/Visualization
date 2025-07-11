@@ -1,2 +1,3 @@
-# Visualization
-Assignments, projects or practice
+# University Coursework
+
+These projects, completed as part of university coursework, focused on developing interactive dashboards and reports to help businesses understand their sales and financial performance more effectively. For the Kevin Cookie Company project in Power BI, visualizations were created to track key metrics such as total revenue, costs, and net profit, broken down by product categories and regions. The dashboards featured bar charts, line graphs, and KPI cards to display trends over time and compare results across different locations. In the Ecommerce Sales Analysis project using Excel, spreadsheets were designed with formulas to calculate important measures including monthly sales totals, average order value, and profit margins. Charts and pivot tables were built to highlight best-selling products, customer segments, and seasonal patterns influencing sales. These visual tools enabled stakeholders to spot trends, uncover growth opportunities, and make data-driven decisions to improve profitability and business strategy.
